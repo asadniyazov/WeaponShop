@@ -1,0 +1,93 @@
+
+    {
+         "weapons":[{
+      "id": 2,
+      "description": "The M4/M4A1 5.56mm Carbine is a lightweight, gas-operated, air-cooled, magazine-fed, selective-rate, shoulder-fired weapon with a collapsible stock",
+      "name": "M4 carbine",
+      "image":"https://th.bing.com/th?id=OIP.UUY2GbN6K_Gsq-8FGZh8JAHaEc&w=322&h=193&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+      "Type":"Assault rifle",
+      "cost": 647,
+      "Cartridge":"5.56×45mm NATO",
+      "mas":"3.52 kg",
+      "length":"838 mm"
+
+    },
+    {
+      "id": 1,
+      "description": "The AK-47, officially known as the Avtomat Kalashnikova  is a gas-operated assault rifle chambered for the 7.62×39mm cartridge",
+      "name": "AK-47",
+      "image":"https://th.bing.com/th/id/OIP.gNC94WMJdPytzsbeVQn0ewHaEo?w=302&h=187&c=7&r=0&o=5&pid=1.7",
+      "Type":"Assault rifle",
+      "cost": 400,
+      "Cartridge":"7.62×39mm",
+      "mas":"3.47 kg",
+      "length":"880 mm"
+    },
+    {
+      "id": 3,
+      "description": "The Benelli M4 is a semi-automatic shotgun produced by Italian firearm manufacturer Benelli Armi SpA",
+      "name": "Benelli M4 Super 90",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Benelli_m4_2.jpg/300px-Benelli_m4_2.jpg",
+      "Type":"Semi-automatic combat shotgun",
+      "cost": 647,
+      "Cartridge":"12-gauge",
+      "mas":"3.82 kg",
+      "length":"889 mm"
+    },
+    {
+      "id": 4,
+      "description": "The Browning Automatic 5, most often Auto-5 or simply A-5, is a recoil-operated semi-automatic shotgun designed by John Browning and manufactured by Fabrique Nationale de Herstal.",
+      "name": "Semi-automatic shotgun",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/RemingtonMd11.JPG/350px-RemingtonMd11.JPG",
+      "Type":"Assault rifle",
+      "cost": 647,
+      "Cartridge":"12 gauge, 16 gauge, 20 gauge",
+      "mas":"4.1 kg",
+      "length":"1270 mm"
+    },
+    {
+      "id": 5,
+      "description": "The Beretta 90-Two is a series of semi-automatic pistols designed and manufactured by Beretta of Italy",
+      "name": "Beretta 90-Two",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Beretta_90TWO_closed.JPG/300px-Beretta_90TWO_closed.JPG",
+      "Type":"Semi-automatic pistol",
+      "cost": 	700,
+      "Cartridge":"9×19mm Parabellum",
+      "mas":"0,9 kg",
+      "length":"217 mm"
+    },
+    {
+      "id": 6,
+      "description": "The CZ 100 is a semi-automatic handgun, introduced in 1995 by Česká Zbrojovka",
+      "name": "CZ 100",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/CZ-100.png/220px-CZ-100.png",
+      "Type":" semi-automatic handgun",
+      "cost": 355,
+      "Cartridge":"9mm",
+      "mas":"0,8kg",
+      "length":"177 mm"
+    },
+    {
+      "id": 7,
+      "description": "The GSh-18 (Cyrillic: ГШ-18) is a 9mm semi-automatic pistol developed by the KBP Instrument Design Bureau in Tula during the 1990s",
+      "name": "GSh-18",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/GSh-18_pistol_at_Celebration_of_70th_anniversary_of_the_Victory_in_the_Battle_of_Stalingrad_in_TSNIITOCHMASH.jpg/300px-GSh-18_pistol_at_Celebration_of_70th_anniversary_of_the_Victory_in_the_Battle_of_Stalingrad_in_TSNIITOCHMASH.jpg",
+      "Type":"Semi-automatic pistol",
+      "cost": 148,
+      "Cartridge":"9×19mm Parabellum",
+      "mas":"0,6 kg",
+      "length":"184 mm"
+    },
+    {
+      "id": 8,
+      "description": "The Adaptive Combat Rifle (ACR) is a modular assault rifle formerly designed by Magpul Industries of Austin, Texas, and known initially as the Masada",
+      "name": "Adaptive Combat Rifle",
+      "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Bushmaster_ACR.jpg/300px-Bushmaster_ACR.jpg",
+      "Type":"Assault rifle",
+      "cost": 800,
+      "Cartridge":"5.56×45mm NATO",
+      "mas":"4.4 kg",
+      "length":"902 mm"
+    }
+]
+}

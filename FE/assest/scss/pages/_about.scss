@@ -1,0 +1,150 @@
+.hero_about{
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-image: url("https://th.bing.com/th?id=OIP.v11VJFp-Tz0ok7LFAsr0wQHaDt&w=350&h=175&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2");
+    height: 600px;
+    background-size: cover;
+    max-width: 2000px!important;
+    background-repeat: no-repeat;
+    background-position: center;
+    .hero_about_text_container{
+    gap: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    .hero_about_text_h1{
+        font-size: 60px;
+        font-weight: bold;
+        
+      }
+      div{
+        font-style: italic;
+        font-size: 22px;
+        margin-top: 20px;
+        
+      }
+    }
+}
+// middle section start
+.middle_about{
+    min-height: 400px;
+    padding: 40px 20px 20px 40px;
+    display: flex;
+    justify-content: center;
+    
+    .middle_about_container{
+        display: flex;
+        flex-direction: column;
+       text-align: center;
+        max-width: 700px;
+        h4{
+            padding-bottom: 10px;
+            font-size: 32px;
+        }
+        p{
+            font-size: 22px;
+            font-weight: 300;
+        }
+    }
+
+} 
+// third section start 
+.thirdsection_about{
+    min-height: 400px;
+    padding: 40px 20px 20px 40px;
+    display: flex;
+    justify-content: center;
+    .thirdsection_about_container{
+     h4{
+        font-size: 32px;
+        padding-bottom: 10px;
+
+     }
+     .div_card{
+        min-height: 30px;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+        border-radius: 6px;
+        margin-top: 10px;
+        transition: 0.25s ease;
+        &:hover,
+  &:focus {
+    transform: scale3d(1.006, 1.006, 1);
+    cursor: pointer;
+
+    &::after {
+      opacity: 1;
+    }
+  }
+}
+        .div_card_text{
+        font-size: 16px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        }
+    
+     }
+    }
+// third section end
+// fourthsection start 
+.fourthsection_about{
+    min-height: 400px;
+    padding: 40px 20px 20px 40px;
+    display: flex;
+    justify-content: center;
+    .fourthsection_about_container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+          h4{
+            font-size: 32px;
+        padding-bottom: 10px;
+          }
+          .fourthsection_about_container_card_container{
+            display: flex;
+            flex-direction: row ;
+            gap: 10px;
+            flex-wrap: wrap;
+            display: flex;
+            justify-content: center;
+              .fourthsection_about_container_card{
+                width: 202px;
+                box-shadow: 0 4px 8px 0 rgba(223, 156, 156, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+                min-height: 250px;
+                border-radius: 6px;
+                .fourthsection_about_container_card_img{
+                    img{
+                        width: 200px;
+                        height: 200px;
+                        border-radius: 6px;
+                    }
+                }
+                .fourthsection_about_container_card_text{
+                    .fourthsection_about_container_card_text_head{
+                        font-size: 22px;
+                        font-weight: bold;
+                        display: flex;
+                        justify-content: center;
+
+                    }
+                }
+                &:hover,
+                &:focus {
+                  transform: scale3d(1.006, 1.006, 1);
+                  cursor: pointer;
+              
+                  &::after {
+                    opacity: 1;
+                  }
+                }
+              }
+          }
+    }
+}
